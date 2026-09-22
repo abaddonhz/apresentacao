@@ -91,7 +91,7 @@ const groups = [
             ],
             [
                 'Se pudesse mudar uma coisa no seu último emprego, o que seria?',
-                'Não teria comparecido, conheci pessoas que não sabiam ser profissionais muito menos vendedores, que mais atrasou minha vida do que ajudou infelizmente.'
+                'Teria escolhido melhor as pessoas com quem trabalhei. Foi uma experiência que me ensinou que profissionalismo, responsabilidade e comprometimento fazem muita diferença no ambiente de trabalho. Algumas situações acabaram me prejudicando, mas também serviram como aprendizado.'
             ]
         ]
     ],
