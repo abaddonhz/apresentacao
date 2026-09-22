@@ -64,7 +64,7 @@ const groups = [
             ],
             [
                 'Você prefere resolver tudo sozinho ou pedir ajuda cedo? Dá um exemplo.',
-                'Prefiro resolver sozinho.'
+                'Prefiro tentar resolver sozinho primeiro. Trabalho melhor com foco e gosto de entender meus próprios erros e encontrar a solução. No desenvolvimento de softwares, por exemplo, costumo trabalhar de forma independente, pesquisando, testando e corrigindo até chegar ao resultado. Se perceber que preciso de ajuda, não tenho problema em pedir.'
             ],
             [
                 'Como você reage quando alguém corrige um erro seu na frente dos outros?',
